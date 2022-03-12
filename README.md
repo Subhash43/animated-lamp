@@ -20,7 +20,7 @@ An attempt to implement the screenshot generation of telegram files without down
 * Clone to local machine.
 
 ``` bash
-$ git clone https://github.com/odysseusmax/animated-lamp.git
+$ git clone https://github.com/Subhash43/animated-lamp.git
 $ cd animated-lamp
 ````
 
@@ -108,7 +108,7 @@ In bot settings.
 Contributions are welcome.
 
 ## Contact
-You can contact me [@odysseusmax](https://tx.me/odysseusmax).
+You can contact me [@subhash43](https://tx.me/subhash43).
 
 ## Thanks
 Thanks to [Dan](https://github.com/delivrance "Dan") for his [Pyrogram](https://github.com/pyrogram/pyrogram "Pyrogram") library.
